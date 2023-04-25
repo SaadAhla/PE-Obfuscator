@@ -6,16 +6,17 @@ https://user-images.githubusercontent.com/123980007/234171901-c1eb735e-ceca-481d
 
 
 ### The Obfuscator :
-    - Gets Fileless PE from a remote server
+    - Gets xored Fileless PE from a remote server
     - Drop the Loader in the disk 
     - Add random section to that Loader
-    - Add the Fileless PE to the new created Loader section
+    - Add the xored Fileless PE to the new created Loader section
 
 ### The Loader :
     - Unhook ntdll from knowndlls
     - Drop RTCore64 to the disk
     - Load/Install RTCore64
     - Exploit RTCore64 to Remove Kernel Callbacks
+    - xor PE
     - Map/Load PE from the added Section
     - Stomped a big module that fit the PE.
     
