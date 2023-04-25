@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/123980007/234171901-c1eb735e-ceca-481d
     - Drop RTCore64 to the disk
     - Load/Install RTCore64
     - Exploit RTCore64 to Remove Kernel Callbacks
-    - Map/Load from the added Section
+    - Map/Load PE from the added Section
     - Stomped a big module that fit the PE.
     
  ## Credits :
