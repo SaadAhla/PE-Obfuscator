@@ -1,5 +1,5 @@
 # PE-Obfuscator
-PE obfuscator with Evasion in mind , needs ***Admin Privilege***
+PE obfuscator with Evasion in mind , needs ***Admin Privilege*** in order to load RTCore64 driver.
 
 ## Video:
 https://user-images.githubusercontent.com/123980007/234171901-c1eb735e-ceca-481d-9310-02ba30f6836b.mp4
